@@ -1,0 +1,12 @@
+dlib==19.24.4
+feedparser==6.0.11
+keyboard==0.13.5
+mediapipe==0.10.18
+numpy==1.24.3
+opencv-contrib-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+Pillow==11.0.0
+PyAutoGUI==0.9.54
+pynput==1.7.7
+scipy==1.11.4
+yolo5face==0.0.10
